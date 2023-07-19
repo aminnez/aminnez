@@ -11,6 +11,8 @@
 
 ### 📕 Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Have a geeky terminal environment with ZSH](https://aminnez.com/linux/zsh-the-z-shell)
+- [Markdown Style Guide](https://aminnez.com/linux/markdown-style-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me:
