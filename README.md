@@ -16,6 +16,8 @@
 
 ### 📕 Latest blogs posts in Persian:
 <!-- PERSIAN-BLOG-POST-LIST:START -->
+- [چه زمانی از Flutter برای طراحی وب استفاده کنیم؟](https://fa.aminnez.com/flutter/should-use-flutter-web)
+- [با ZSH یک ترمینال خفن داشته باش](https://fa.aminnez.com/linux/zsh-the-z-shell)
 <!-- PERSIAN-BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me:
