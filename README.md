@@ -14,6 +14,10 @@
 - [Have a geeky terminal environment with ZSH](https://aminnez.com/linux/zsh-the-z-shell)
 <!-- BLOG-POST-LIST:END -->
 
+### 📕 Latest blogs posts in Persian:
+<!-- PERSIAN-BLOG-POST-LIST:START -->
+<!-- PERSIAN-BLOG-POST-LIST:END -->
+
 ### 🔗 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-brown.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aminnezampour)
