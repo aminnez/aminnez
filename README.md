@@ -16,6 +16,7 @@
 
 ### 📕 Latest blogs posts in Persian:
 <!-- PERSIAN-BLOG-POST-LIST:START -->
+- [بررسی ساختار پروژه‌های فلاتر - مقایسه روش‌های ویژگی‌محور و لایه‌محور](https://fa.aminnez.com/flutter/flutter-project-structure)
 - [مقایسه کامپایلر AOT در مقابل JIT: درک تفاوت‌ها و انتخاب آگاهانه](https://fa.aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
 - [چه زمانی از Flutter برای طراحی وب استفاده کنیم؟](https://fa.aminnez.com/flutter/should-use-flutter-web)
 - [با ZSH یک ترمینال خفن داشته باش: نصب و پلاگین‌ها](https://fa.aminnez.com/linux/zsh-the-z-shell)
