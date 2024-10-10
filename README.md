@@ -11,6 +11,7 @@
 
 ### 📕 Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Comparing AOT and JIT Compilers: Understanding the Differences and Making an Informed Choice](https://aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
 - [Have a geeky terminal environment with ZSH](https://aminnez.com/linux/zsh-the-z-shell)
 <!-- BLOG-POST-LIST:END -->
 
