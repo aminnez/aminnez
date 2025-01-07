@@ -1,11 +1,11 @@
 ﻿<h1 align="center">Hi 👋, I'm Amin Nezampour</h1>
 <h3 align="center">A little programmer in a big world</h3>
 
-- 🌱 I’m currently learning **Kubernetes, DevOps ...**
+- 🌱 I’m currently learning ~~Kubernetes, DevOps~~ React with NextJS ...
 
 - 📝 I regularly write articles on [AminNez.com](https://aminnez.com)
 
-- 💬 Ask me about **Android, Flutter, PHP, Docker, Java**
+- 💬 Ask me about **Android, Flutter, PHP, Docker, Java, Web Development**
 
 - 📫 How to reach me `aminnezam @ gmail .com`
 
@@ -50,6 +50,8 @@
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Astro](https://img.shields.io/badge/Astro-%23E34F26.svg?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![ReactJS](https://img.shields.io/badge/ReactJS-blue.svg?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![NextJS](https://img.shields.io/badge/NextJS-black.svg?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)](https://netlify.com/)
 [![Scrum](https://img.shields.io/badge/Scrum-%230A0FFF.svg?style=flat-square&logo=scrum&logoColor=white)](https://www.scrum.org/)
