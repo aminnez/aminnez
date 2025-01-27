@@ -17,6 +17,7 @@
 
 ### 📕 Latest blogs posts in Persian:
 <!-- PERSIAN-BLOG-POST-LIST:START -->
+- [آشنایی با Jupyter و مزایای آن برای برنامه‌نویسان و دیتاساینتیست‌ها](https://fa.aminnez.com/programming-concepts/jupyter-notebook-multi-language)
 - [حل سریع خطاهای Gradle در پروژه‌های اندروید و فلاتر با میرورینگ Maven](https://fa.aminnez.com/flutter/maven-mirror-for-gradle-error)
 - [بررسی ساختار پروژه‌های فلاتر - مقایسه روش‌های ویژگی‌محور و لایه‌محور](https://fa.aminnez.com/flutter/flutter-project-structure)
 - [مقایسه کامپایلر AOT در مقابل JIT: درک تفاوت‌ها و انتخاب آگاهانه](https://fa.aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
