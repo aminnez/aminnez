@@ -18,12 +18,12 @@
 
 ### 📕 Latest blogs posts in Persian:
 <!-- PERSIAN-BLOG-POST-LIST:START -->
+- [پلاگین Folder Structure Generator: خودکارسازی و سازمان‌دهی پوشه‌های پروژه](https://fa.aminnez.com/programming-concepts/folder-structure-generator-jetbrains-plugin)
 - [آشنایی با Jupyter و مزایای آن برای برنامه‌نویسان و دیتاساینتیست‌ها](https://fa.aminnez.com/programming-concepts/jupyter-notebook-multi-language)
 - [حل سریع خطاهای Gradle در پروژه‌های اندروید و فلاتر با میرورینگ Maven](https://fa.aminnez.com/flutter/maven-mirror-for-gradle-error)
 - [بررسی ساختار پروژه‌های فلاتر - مقایسه روش‌های ویژگی‌محور و لایه‌محور](https://fa.aminnez.com/flutter/flutter-project-structure)
 - [مقایسه کامپایلر AOT در مقابل JIT: درک تفاوت‌ها و انتخاب آگاهانه](https://fa.aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
 - [چه زمانی از Flutter برای طراحی وب استفاده کنیم؟](https://fa.aminnez.com/flutter/should-use-flutter-web)
-- [با ZSH یک ترمینال خفن داشته باش: نصب و پلاگین‌ها](https://fa.aminnez.com/linux/zsh-the-z-shell)
 <!-- PERSIAN-BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me:
