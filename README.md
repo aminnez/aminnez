@@ -11,6 +11,7 @@
 
 ### 📕 Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Best Free AI Tool to Eliminate Background Noise From Your Microphone](https://aminnez.com/linux/best-free-ai-noise-cancellation-mic)
 - [Folder Structure Generator Plugin: Automate &amp; Organize Your Project Setup Like a Pro](https://aminnez.com/programming-concepts/folder-structure-generator-jetbrains-plugin)
 - [An Introduction to Jupyter and Its Powerful Benefits for Programmers and Data Scientists](https://aminnez.com/programming-concepts/jupyter-notebook-multi-language)
 - [Comparing AOT and JIT Compilers: Understanding the Differences and Making an Informed Choice](https://aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
