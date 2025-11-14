@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amin Nezampour</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643515345/13637/cat_type.gif?1643515345" width="40"/> Hi 👋, I'm Amin Nezampour</h1>
 <div align="center">
   <a href="https://aminnez.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=550&color=F70000&center=true&vCenter=true&width=435&lines=A+DEVELOPER;A+TEACHER;A+LEARNER" alt="Typing SVG" /></a>
 </div>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me `aminnezam @ gmail .com`
 
-### 📕 Latest blogs posts:
+## 📕 Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [The Best Free AI Tool to Eliminate Background Noise From Your Microphone](https://aminnez.com/linux/best-free-ai-noise-cancellation-mic)
 - [Folder Structure Generator Plugin: Automate &amp; Organize Your Project Setup Like a Pro](https://aminnez.com/programming-concepts/folder-structure-generator-jetbrains-plugin)
@@ -21,7 +21,7 @@
 - [Have a geeky terminal environment with ZSH](https://aminnez.com/linux/zsh-the-z-shell)
 <!-- BLOG-POST-LIST:END -->
 
-### 📕 Latest blogs posts in Persian:
+## 📕 Latest blogs posts in Persian:
 <!-- PERSIAN-BLOG-POST-LIST:START -->
 - [بهترین ابزار رایگان هوش مصنوعی برای حذف نویز پس‌زمینه از میکروفون شما](https://fa.aminnez.com/linux/best-free-ai-noise-cancellation-mic)
 - [پلاگین Folder Structure Generator: خودکارسازی و سازمان‌دهی پوشه‌های پروژه](https://fa.aminnez.com/programming-concepts/folder-structure-generator-jetbrains-plugin)
@@ -31,14 +31,14 @@
 - [مقایسه کامپایلر AOT در مقابل JIT: درک تفاوت‌ها و انتخاب آگاهانه](https://fa.aminnez.com/programming-concepts/jit-vs-aot-compiler-pros-cons)
 <!-- PERSIAN-BLOG-POST-LIST:END -->
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-brown.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aminnezampour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nezampour)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nezampour)
 [![Rss](https://img.shields.io/badge/Rss-orange.svg?style=for-the-badge&logo=rss&logoColor=white)](https://aminnez.com/rss)
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 
 [![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)](https://developer.android.com/)
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -64,8 +64,9 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### 📊 SOME STATS:
+## 📊 Some stats:
 
 ![WakaTimeInfo](https://github-readme-stats.vercel.app/api/wakatime?username=aminnez&layout=compact&display_format=percent&theme=github_dark)
 ![GithubInfo](https://github-readme-stats.vercel.app/api/top-langs/?username=aminnez&langs_count=8&theme=github_dark&layout=compact)
+
 
